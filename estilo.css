@@ -1,0 +1,19 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 1.4rem;
+    background: #000;
+}
+
+a {
+    color: #fff;   
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+a:hover{
+    background: #fff;
+    color: #000;
+}
+
